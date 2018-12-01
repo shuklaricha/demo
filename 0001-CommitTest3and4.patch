@@ -1,0 +1,29 @@
+From 808ea925e42fefcaeff71362f83576e10be75440 Mon Sep 17 00:00:00 2001
+From: Richa Shukla <richa.shukla@synapse.com>
+Date: Sat, 1 Dec 2018 22:36:40 +0530
+Subject: [PATCH] CommitTest3and4
+
+---
+ test3.ts | 2 +-
+ test4.ts | 1 +
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+ create mode 100644 test4.ts
+
+diff --git a/test3.ts b/test3.ts
+index bec494d..ed02e88 100644
+--- a/test3.ts
++++ b/test3.ts
+@@ -1 +1 @@
+-test3 file
++// test3 file
+diff --git a/test4.ts b/test4.ts
+new file mode 100644
+index 0000000..a0eb429
+--- /dev/null
++++ b/test4.ts
+@@ -0,0 +1 @@
++// again testing
+\ No newline at end of file
+-- 
+2.19.2.windows.1
+
